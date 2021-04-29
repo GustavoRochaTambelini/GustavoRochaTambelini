@@ -19,6 +19,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/GustavoRochaTambelini/icons/acfb407626344d2c0fed69f2130de57752788935/react-original.svg" alt="react" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/GustavoRochaTambelini/icons/79a05c0f67337583d0676d1b43fedde105740c69/icons8-delphi-ide.svg" alt="javascript" width="20" height="20"/>
+<img src="http://cursophpdozeroaoprofissional.com/wp-content/uploads/2017/04/tortoise-svn-logo.png" alt="javascript" width="20" height="20"/>
 <img src="https://firebirdsql.org/file/about/ds-firebird-logo.svg" alt="javascript" width="20" height="20"/>
 </p><p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=GustavoRochaTambelini&show_icons=true" alt="GustavoRochaTambelini"/> 
