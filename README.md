@@ -6,7 +6,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [github.com/GustavoRochaTambelini](https://github.com/GustavoRochaTambelini)
 
-- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL**
+- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL, React Native**
 
 - 📫 Como me encontrar **rochatambelini@gmail.com**
 
