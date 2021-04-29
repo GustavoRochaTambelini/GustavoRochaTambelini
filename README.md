@@ -1,5 +1,5 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Sou o Gustavo!</h1>
-<h3 align="center">Sou desenvolvedor Delphi em processo de migração para criação de aplicativos Mobile com React Native <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></h3>
+<h3 align="center">Sou desenvolvedor Delphi em processo de migração para criação de aplicativos Mobile com React Native <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css" alt="react" width="20" height="20"/></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GustavoRochaTambelini" alt="GustavoRochaTambelini" /> </p>
 
 - 🔭Atualmente estou trabalhando na [RTI Sistemas](https://www.facebook.com/sistemasrti/)
